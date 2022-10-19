@@ -1,0 +1,151 @@
+﻿.proname {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.proprice {
+    font-size: 13px;
+    line-height: 17px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.proogprice {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-decoration: line-through;
+    color: dimgrey;
+}
+
+.proPriceDiscount {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color:red;
+}
+.abc {
+    border-radius:4px;
+    background-color:red;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+}
+.abc:hover {
+    background-color:forestgreen;
+    color: white;
+}
+
+.pronameView{
+    font-size:20px;
+    line-height:25px;
+    font-family:sans-serif;
+    color:#696e80;
+}
+.proogpriceView {
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-decoration: line-through;
+    color: dimgrey;
+}
+.proPriceDiscountView {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: red;
+}
+.propriceView {
+    font-size: 16px;
+    line-height: 17px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.divDet1{
+    border-bottom : 1px dashed #808080;
+    margin-bottom:20px;
+}
+.h5size{
+    font-weight:600;
+}
+
+.RemoveButton{
+    border-radius:3px;
+    outline:0;
+    margin-top:10px;
+    font-size:13px;
+    min-height:22px;
+    min-width:90px;
+    font-weight:500;
+    background-color:#FF5722;
+    border:1px solid #FF5722;
+    color:#fff;
+}
+.priceGrey{
+    font-size:15px;
+    font-family:sans-serif;
+    font-weight:400;
+    color:dimgray;
+}
+.priceGreen{
+    font-size:15px;
+    font-family:sans-serif;
+    font-weight:400;
+    color:#20bd99
+}
+.proNameviewCart{
+    font-size:15px;
+    line-height:25px;
+    font-family:sans-serif;
+    font-weight:600;
+    color:#696e80
+}
+.buyNowbtn{
+    border-radius:3px;
+    outline:0;
+    margin-top:10px;
+    margin-bottom:20px;
+    font-size:13px;
+    min-height:22px;
+    padding:10px 20px;
+    font-weight:500;
+    background-color:#14cda8;
+    color:#fff;
+    border:1px solid #14cda8;
+    width:100%;
+}
+.aname {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+.priceGray {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: dimgray;
+}
+
+.priceGreen {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #20bd99;
+}
+
+.name {
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+.HL{
+    text-align:right;
+}
